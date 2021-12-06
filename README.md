@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a final year undergraduate from the University of Moratuwa, Department of Computer Science and Engineering. I am deeply motivated to constantly develop my skills through learning. It is my goal to actively explore diverse knowledge fields, while developing myself professionally.
+I am a final year undergraduate from the Department of Computer Science and Engineering, University of Moratuwa, Sri Lanka. I am deeply motivated to constantly develop my skills through learning. It is my goal to actively explore diverse knowledge fields, while developing myself professionally.
 
 <!--
 **Yoshani/Yoshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
