@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshani&show_icons=true&theme=radical&count_private=true&hide=Jupyter Notebook,CSS&langs_count=7" alt="Yoshani's Top lang" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshani&show_icons=true&theme=radical&count_private=true&hide=Jupyter Notebook&langs_count=7" alt="Yoshani's Top lang" />
  </a>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/Yoshani">
