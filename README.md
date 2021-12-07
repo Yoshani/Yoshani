@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=yoshani&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="yoshani" style="max-width: 100%;"></a> </p>
 
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshani&show_icons=true&theme=radical&count_private=true&hide=Jupyter Notebook&langs_count=7" alt="Yoshani's Top lang" />
@@ -27,3 +28,11 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yoshani&show_icons=true&theme=merko&count_private=true" alt="Yoshani's GitHub Stats" />
 </a>
 </p>
+
+<hr>
+
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=yoshani" alt="yoshani" style="max-width: 100%;">
+</p>
+
+<hr>
