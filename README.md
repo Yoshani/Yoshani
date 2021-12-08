@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 <hr>
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=yoshani&amp;theme=oldie&amp;row=1&amp;column=6&amp;margin-w=15" alt="yoshani" style="max-width: 100%;">
+  <a href="https://github.com/Hashara">
+   <img src="https://github-profile-trophy.vercel.app/?username=Yoshani&row=1&column=5&margin-w=15" alt="Yoshani">
+  </a>
 </p>
 
 <hr>
