@@ -1,7 +1,5 @@
 ### Hi, I'm Yoshani! 👋
 
-I'm a final year undergraduate from the Department of Computer Science and Engineering, University of Moratuwa, Sri Lanka. I'm deeply motivated to constantly develop my skills through learning. It is my goal to actively explore diverse knowledge fields, while developing myself professionally.
-
 Reach me through [LinkedIn ![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/yoshani-ranaweera/)
 
 <!--
