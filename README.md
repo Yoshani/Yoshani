@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  </a> -->
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/Yoshani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yoshani&show_icons=true&theme=merko&count_private=true" alt="Yoshani's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yoshani&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="Yoshani's GitHub Stats" />
 </a>
 </p>
 <hr>
