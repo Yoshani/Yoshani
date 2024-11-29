@@ -1,6 +1,6 @@
 ### Hi, I'm Yoshani! 👋
 
-Reach me through [LinkedIn ![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/yoshani-ranaweera/)
+Reach me through [LinkedIn](https://www.linkedin.com/in/yoshani-ranaweera/)
 
 <!--
 **Yoshani/Yoshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
